@@ -1,0 +1,14 @@
+%pip install pandas
+%pip install requests
+%pip install seaborn
+%pip install numpy
+%pip install smopy
+%pip install matplotlib
+%pip install scipy
+%pip install folium
+%pip install geopandas matplotlib shapely
+%pip install contextily
+%pip install pystan
+%pip install --upgrade pystan httpstan
+%pip install prophet
+%pip install ipywidgets
